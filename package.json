@@ -1,0 +1,16 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "electron ."
+  },
+  "author": "coolbong <coolbong.works@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "electron-rebuild": "^1.5.11"
+  }
+}
